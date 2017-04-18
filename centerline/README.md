@@ -1,4 +1,4 @@
-# This set of scripts is for producing a centerline through a closed contour, given the (x,y) coordinates of a cell outline. Further analysis will produce geometrical properties (surface area, volume, length, and medial width)
+This set of scripts is for producing a centerline through a closed contour, given the (x,y) coordinates of a cell outline. Further analysis will produce geometrical properties (surface area, volume, length, and medial width)
 
 # To run, use function 'CENTERLINE_geom_props' using all of the dependencies in 'centerline/' folder.
 
