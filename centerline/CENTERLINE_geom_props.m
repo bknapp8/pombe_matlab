@@ -1,4 +1,4 @@
-[S, V, L, W] = CENTERLINE_geom_props(x,y,stp)
+function [S, V, L, W] = CENTERLINE_geom_props(x,y,stp)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This function uses the centerline produced by CENTERLINE_pombe() and
 % calculates surface area (S), volume (V), length (L), and median width (W)
