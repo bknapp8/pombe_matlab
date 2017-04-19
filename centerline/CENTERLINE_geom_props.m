@@ -46,7 +46,3 @@ end
 % Make width
 dw2 = (W2-W1).^2;
 W = median(sqrt(sum(dw2')));
-S_tot(fr) = S;
-V_tot(fr) = V;
-L_tot(fr) = L;
-W_tot(fr) = W;
